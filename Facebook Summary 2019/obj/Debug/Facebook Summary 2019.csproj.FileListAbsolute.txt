@@ -1,0 +1,10 @@
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\bin\Debug\Facebook Summary 2019.exe
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\bin\Debug\Facebook Summary 2019.pdb
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\bin\Debug\Newtonsoft.Json.dll
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\bin\Debug\Newtonsoft.Json.xml
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook Summary 2019.csprojResolveAssemblyReference.cache
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook_Summary_2019.Form1.resources
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook_Summary_2019.Properties.Resources.resources
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook Summary 2019.csproj.GenerateResource.Cache
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook Summary 2019.exe
+c:\users\d!q\documents\visual studio 2017\Projects\Facebook Summary 2019\Facebook Summary 2019\obj\Debug\Facebook Summary 2019.pdb
